@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47d9b06b-68aa-4c99-a703-d84b5f2942ef" name="变更" comment="a">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/docs/README_20230414172839.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/docs/README_20230418175923.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/navbar/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/navbar/zh.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/icon/apple-icon-152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/icon/chrome-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/icon/chrome-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/icon/chrome-mask-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/icon/chrome-mask-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/icon/guide-maskable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/icon/ms-icon-144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/sidebar/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/sidebar/zh.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/styles/config.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/styles/palette.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/demo/disable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/demo/encrypt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/demo/markdown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/demo/page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/bar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/bar/baz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/foo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guide/foo/ray.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/slides.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OPUhNgajnXcHyawHjNRY42Lo3D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/docs/en" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="docs:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.docs:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="47d9b06b-68aa-4c99-a703-d84b5f2942ef" name="变更" comment="" />
+      <created>1681461828750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681461828750</updated>
+      <workItem from="1681461829811" duration="3221000" />
+      <workItem from="1681812869307" duration="929000" />
+    </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1681812992283</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681812992283</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+</project>
